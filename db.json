@@ -1,16 +1,37 @@
 {
-  "posts":[
+  "posts": [
     {
-      "id" : 0,
+      "id": 0,
       "title": "First post!",
-      "content" : "My first content!"
+      "content": "My first content!"
     }
   ],
-  "comments" : [
+  "comments": [
     {
       "id": 0,
       "content": "Wow such content!",
       "username": "zero_cool"
     }
-  ]
+  ],
+  "users": [
+    {
+      "id": 0,
+      "name": "albert",
+      "age": 25,
+      "rating": 3.2
+    }
+  ],
+  "tasks": [
+    {
+      "title": "learn routing",
+      "status": false,
+      "id": 0
+    },
+    {
+      "title": "learn axios",
+      "status": "true",
+      "id": 1
+    }
+  ],
+  "profile": { "name": "ravipandeydu" }
 }
