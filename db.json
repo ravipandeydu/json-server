@@ -33,5 +33,21 @@
       "id": 1
     }
   ],
+  "hospitals": [
+    {
+      "id": 0,
+      "Name": "Appolo",
+      "Address": "New Delhi"
+    }
+  ],
+  "doctors": [
+    {
+      "id": 0,
+      "Name": "Appolo",
+      "Hospital": "Appolo",
+      "Specialisation": "Heart",
+      "Salary": "50000"
+    }
+  ],
   "profile": { "name": "ravipandey" }
 }
