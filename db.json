@@ -43,7 +43,7 @@
   "doctors": [
     {
       "id": 0,
-      "Name": "Appolo",
+      "Name": "Ravi",
       "Hospital": "Appolo",
       "Specialisation": "Heart",
       "Salary": "50000"
