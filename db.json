@@ -1,601 +1,504 @@
 {
   "todos":[
     {
-    "userId": 1,
     "id": 1,
     "title": "delectus aut autem",
     "status": false
     },
     {
-    "userId": 1,
     "id": 2,
     "title": "quis ut nam facilis et officia qui",
     "status": false
     },
     {
-    "userId": 1,
+
     "id": 3,
     "title": "fugiat veniam minus",
     "status": false
     },
     {
-    "userId": 1,
+
     "id": 4,
     "title": "et porro tempora",
     "status": true
     },
     {
-    "userId": 1,
+
     "id": 5,
     "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
     "status": false
     },
     {
-    "userId": 1,
     "id": 6,
     "title": "qui ullam ratione quibusdam voluptatem quia omnis",
     "status": false
     },
     {
-    "userId": 1,
     "id": 7,
     "title": "illo expedita consequatur quia in",
     "status": false
     },
     {
-    "userId": 1,
     "id": 8,
     "title": "quo adipisci enim quam ut ab",
     "status": true
     },
     {
-    "userId": 1,
     "id": 9,
     "title": "molestiae perspiciatis ipsa",
     "status": false
     },
     {
-    "userId": 1,
     "id": 10,
     "title": "illo est ratione doloremque quia maiores aut",
     "status": true
     },
     {
-    "userId": 1,
     "id": 11,
     "title": "vero rerum temporibus dolor",
     "status": true
     },
     {
-    "userId": 1,
     "id": 12,
     "title": "ipsa repellendus fugit nisi",
     "status": true
     },
     {
-    "userId": 1,
     "id": 13,
     "title": "et doloremque nulla",
     "status": false
     },
     {
-    "userId": 1,
     "id": 14,
     "title": "repellendus sunt dolores architecto voluptatum",
     "status": true
     },
     {
-    "userId": 1,
     "id": 15,
     "title": "ab voluptatum amet voluptas",
     "status": true
     },
     {
-    "userId": 1,
     "id": 16,
     "title": "accusamus eos facilis sint et aut voluptatem",
     "status": true
     },
     {
-    "userId": 1,
     "id": 17,
     "title": "quo laboriosam deleniti aut qui",
     "status": true
     },
     {
-    "userId": 1,
     "id": 18,
     "title": "dolorum est consequatur ea mollitia in culpa",
     "status": false
     },
     {
-    "userId": 1,
     "id": 19,
     "title": "molestiae ipsa aut voluptatibus pariatur dolor nihil",
     "status": true
     },
     {
-    "userId": 1,
     "id": 20,
     "title": "ullam nobis libero sapiente ad optio sint",
     "status": true
     },
     {
-    "userId": 2,
     "id": 21,
     "title": "suscipit repellat esse quibusdam voluptatem incidunt",
     "status": false
     },
     {
-    "userId": 2,
     "id": 22,
     "title": "distinctio vitae autem nihil ut molestias quo",
     "status": true
     },
     {
-    "userId": 2,
     "id": 23,
     "title": "et itaque necessitatibus maxime molestiae qui quas velit",
     "status": false
     },
     {
-    "userId": 2,
     "id": 24,
     "title": "adipisci non ad dicta qui amet quaerat doloribus ea",
     "status": false
     },
     {
-    "userId": 2,
     "id": 25,
     "title": "voluptas quo tenetur perspiciatis explicabo natus",
     "status": true
     },
     {
-    "userId": 2,
     "id": 26,
     "title": "aliquam aut quasi",
     "status": true
     },
     {
-    "userId": 2,
     "id": 27,
     "title": "veritatis pariatur delectus",
     "status": true
     },
     {
-    "userId": 2,
     "id": 28,
     "title": "nesciunt totam sit blanditiis sit",
     "status": false
     },
     {
-    "userId": 2,
     "id": 29,
     "title": "laborum aut in quam",
     "status": false
     },
     {
-    "userId": 2,
     "id": 30,
     "title": "nemo perspiciatis repellat ut dolor libero commodi blanditiis omnis",
     "status": true
     },
     {
-    "userId": 2,
     "id": 31,
     "title": "repudiandae totam in est sint facere fuga",
     "status": false
     },
     {
-    "userId": 2,
     "id": 32,
     "title": "earum doloribus ea doloremque quis",
     "status": false
     },
     {
-    "userId": 2,
     "id": 33,
     "title": "sint sit aut vero",
     "status": false
     },
     {
-    "userId": 2,
     "id": 34,
     "title": "porro aut necessitatibus eaque distinctio",
     "status": false
     },
     {
-    "userId": 2,
     "id": 35,
     "title": "repellendus veritatis molestias dicta incidunt",
     "status": true
     },
     {
-    "userId": 2,
     "id": 36,
     "title": "excepturi deleniti adipisci voluptatem et neque optio illum ad",
     "status": true
     },
     {
-    "userId": 2,
     "id": 37,
     "title": "sunt cum tempora",
     "status": false
     },
     {
-    "userId": 2,
     "id": 38,
     "title": "totam quia non",
     "status": false
     },
     {
-    "userId": 2,
     "id": 39,
     "title": "doloremque quibusdam asperiores libero corrupti illum qui omnis",
     "status": false
     },
     {
-    "userId": 2,
     "id": 40,
     "title": "totam atque quo nesciunt",
     "status": true
     },
     {
-    "userId": 3,
     "id": 41,
     "title": "aliquid amet impedit consequatur aspernatur placeat eaque fugiat suscipit",
     "status": false
     },
     {
-    "userId": 3,
     "id": 42,
     "title": "rerum perferendis error quia ut eveniet",
     "status": false
     },
     {
-    "userId": 3,
     "id": 43,
     "title": "tempore ut sint quis recusandae",
     "status": true
     },
     {
-    "userId": 3,
     "id": 44,
     "title": "cum debitis quis accusamus doloremque ipsa natus sapiente omnis",
     "status": true
     },
     {
-    "userId": 3,
     "id": 45,
     "title": "velit soluta adipisci molestias reiciendis harum",
     "status": false
     },
     {
-    "userId": 3,
     "id": 46,
     "title": "vel voluptatem repellat nihil placeat corporis",
     "status": false
     },
     {
-    "userId": 3,
     "id": 47,
     "title": "nam qui rerum fugiat accusamus",
     "status": false
     },
     {
-    "userId": 3,
     "id": 48,
     "title": "sit reprehenderit omnis quia",
     "status": false
     },
     {
-    "userId": 3,
     "id": 49,
     "title": "ut necessitatibus aut maiores debitis officia blanditiis velit et",
     "status": false
     },
     {
-    "userId": 3,
     "id": 50,
     "title": "cupiditate necessitatibus ullam aut quis dolor voluptate",
     "status": true
     },
     {
-    "userId": 3,
     "id": 51,
     "title": "distinctio exercitationem ab doloribus",
     "status": false
     },
     {
-    "userId": 3,
     "id": 52,
     "title": "nesciunt dolorum quis recusandae ad pariatur ratione",
     "status": false
     },
     {
-    "userId": 3,
     "id": 53,
     "title": "qui labore est occaecati recusandae aliquid quam",
     "status": false
     },
     {
-    "userId": 3,
     "id": 54,
     "title": "quis et est ut voluptate quam dolor",
     "status": true
     },
     {
-    "userId": 3,
     "id": 55,
     "title": "voluptatum omnis minima qui occaecati provident nulla voluptatem ratione",
     "status": true
     },
     {
-    "userId": 3,
     "id": 56,
     "title": "deleniti ea temporibus enim",
     "status": true
     },
     {
-    "userId": 3,
     "id": 57,
     "title": "pariatur et magnam ea doloribus similique voluptatem rerum quia",
     "status": false
     },
     {
-    "userId": 3,
     "id": 58,
     "title": "est dicta totam qui explicabo doloribus qui dignissimos",
     "status": false
     },
     {
-    "userId": 3,
     "id": 59,
     "title": "perspiciatis velit id laborum placeat iusto et aliquam odio",
     "status": false
     },
     {
-    "userId": 3,
     "id": 60,
     "title": "et sequi qui architecto ut adipisci",
     "status": true
     },
     {
-    "userId": 4,
     "id": 61,
     "title": "odit optio omnis qui sunt",
     "status": true
     },
     {
-    "userId": 4,
     "id": 62,
     "title": "et placeat et tempore aspernatur sint numquam",
     "status": false
     },
     {
-    "userId": 4,
     "id": 63,
     "title": "doloremque aut dolores quidem fuga qui nulla",
     "status": true
     },
     {
-    "userId": 4,
     "id": 64,
     "title": "voluptas consequatur qui ut quia magnam nemo esse",
     "status": false
     },
     {
-    "userId": 4,
     "id": 65,
     "title": "fugiat pariatur ratione ut asperiores necessitatibus magni",
     "status": false
     },
     {
-    "userId": 4,
     "id": 66,
     "title": "rerum eum molestias autem voluptatum sit optio",
     "status": false
     },
     {
-    "userId": 4,
     "id": 67,
     "title": "quia voluptatibus voluptatem quos similique maiores repellat",
     "status": false
     },
     {
-    "userId": 4,
     "id": 68,
     "title": "aut id perspiciatis voluptatem iusto",
     "status": false
     },
     {
-    "userId": 4,
     "id": 69,
     "title": "doloribus sint dolorum ab adipisci itaque dignissimos aliquam suscipit",
     "status": false
     },
     {
-    "userId": 4,
     "id": 70,
     "title": "ut sequi accusantium et mollitia delectus sunt",
     "status": false
     },
     {
-    "userId": 4,
     "id": 71,
     "title": "aut velit saepe ullam",
     "status": false
     },
     {
-    "userId": 4,
     "id": 72,
     "title": "praesentium facilis facere quis harum voluptatibus voluptatem eum",
     "status": false
     },
     {
-    "userId": 4,
     "id": 73,
     "title": "sint amet quia totam corporis qui exercitationem commodi",
     "status": true
     },
     {
-    "userId": 4,
     "id": 74,
     "title": "expedita tempore nobis eveniet laborum maiores",
     "status": false
     },
     {
-    "userId": 4,
     "id": 75,
     "title": "occaecati adipisci est possimus totam",
     "status": false
     },
     {
-    "userId": 4,
     "id": 76,
     "title": "sequi dolorem sed",
     "status": true
     },
     {
-    "userId": 4,
     "id": 77,
     "title": "maiores aut nesciunt delectus exercitationem vel assumenda eligendi at",
     "status": false
     },
     {
-    "userId": 4,
     "id": 78,
     "title": "reiciendis est magnam amet nemo iste recusandae impedit quaerat",
     "status": false
     },
     {
-    "userId": 4,
     "id": 79,
     "title": "eum ipsa maxime ut",
     "status": true
     },
     {
-    "userId": 4,
     "id": 80,
     "title": "tempore molestias dolores rerum sequi voluptates ipsum consequatur",
     "status": true
     },
     {
-    "userId": 5,
     "id": 81,
     "title": "suscipit qui totam",
     "status": true
     },
     {
-    "userId": 5,
     "id": 82,
     "title": "voluptates eum voluptas et dicta",
     "status": false
     },
     {
-    "userId": 5,
     "id": 83,
     "title": "quidem at rerum quis ex aut sit quam",
     "status": true
     },
     {
-    "userId": 5,
     "id": 84,
     "title": "sunt veritatis ut voluptate",
     "status": false
     },
     {
-    "userId": 5,
     "id": 85,
     "title": "et quia ad iste a",
     "status": true
     },
     {
-    "userId": 5,
     "id": 86,
     "title": "incidunt ut saepe autem",
     "status": true
     },
     {
-    "userId": 5,
     "id": 87,
     "title": "laudantium quae eligendi consequatur quia et vero autem",
     "status": true
     },
     {
-    "userId": 5,
     "id": 88,
     "title": "vitae aut excepturi laboriosam sint aliquam et et accusantium",
     "status": false
     },
     {
-    "userId": 5,
     "id": 89,
     "title": "sequi ut omnis et",
     "status": true
     },
     {
-    "userId": 5,
     "id": 90,
     "title": "molestiae nisi accusantium tenetur dolorem et",
     "status": true
     },
     {
-    "userId": 5,
     "id": 91,
     "title": "nulla quis consequatur saepe qui id expedita",
     "status": true
     },
     {
-    "userId": 5,
     "id": 92,
     "title": "in omnis laboriosam",
     "status": true
     },
     {
-    "userId": 5,
     "id": 93,
     "title": "odio iure consequatur molestiae quibusdam necessitatibus quia sint",
     "status": true
     },
     {
-    "userId": 5,
     "id": 94,
     "title": "facilis modi saepe mollitia",
     "status": false
     },
     {
-    "userId": 5,
     "id": 95,
     "title": "vel nihil et molestiae iusto assumenda nemo quo ut",
     "status": true
     },
     {
-    "userId": 5,
     "id": 96,
     "title": "nobis suscipit ducimus enim asperiores voluptas",
     "status": false
     },
     {
-    "userId": 5,
     "id": 97,
     "title": "dolorum laboriosam eos qui iure aliquam",
     "status": false
     },
     {
-    "userId": 5,
     "id": 98,
     "title": "debitis accusantium ut quo facilis nihil quis sapiente necessitatibus",
     "status": true
     },
     {
-    "userId": 5,
     "id": 99,
     "title": "neque voluptates ratione",
     "status": false
     },
     {
-    "userId": 5,
     "id": 100,
     "title": "excepturi a et neque qui expedita vel voluptate",
     "status": false
