@@ -540,18 +540,18 @@
   ],
   "hospitals": [
     {
-      "id": 0,
       "name": "Appolo",
-      "address": "New Delhi"
+      "address": "New Delhi",
+      "id": 0
     }
   ],
   "doctors": [
     {
-      "id": 0,
       "name": "Ravi",
       "hospital": "Appolo",
       "specialisation": "Heart",
-      "salary": "50000"
+      "salary": "50000",
+      "id": 0
     }
   ],
   "cities": [
