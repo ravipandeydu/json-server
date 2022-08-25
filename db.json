@@ -856,5 +856,31 @@
     "id": "50"
     }
   ],
+  "listicle": [
+    {
+      "name": "Air Purifier",
+      "image": "https://p.rmjo.in/productSquare/eoynt3bs-500x500.jpg",
+      "price": 469,
+      "id": 1
+    },
+    {
+      "name": "Atticus Wooden Single Platform Bed",
+      "image": "https://p.rmjo.in/productSquare/hc4dc706-500x500.jpg",
+      "price": 339,
+      "id": 2
+    },
+    {
+      "name": "Morris Office Chair",
+      "image": "https://p.rmjo.in/productSquare/esf6ag3q-500x500.jpg",
+      "price": 199,
+      "id": 3
+    },
+    {
+      "name": "Single Door Fridge",
+      "image": "https://p.rmjo.in/productSquare/t9nfjx7q-500x500.jpg",
+      "price": 809,
+      "id": 4
+    }
+  ],
   "profile": { "name": "ravipandey" }
 }
